@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BankAccount_Project2", "BankAccount_Project2\BankAccount_Project2.vcxproj", "{F77CE20C-51EE-44DF-AFF6-B3A0E4FA908C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F77CE20C-51EE-44DF-AFF6-B3A0E4FA908C}.Debug|x64.ActiveCfg = Debug|x64
+		{F77CE20C-51EE-44DF-AFF6-B3A0E4FA908C}.Debug|x64.Build.0 = Debug|x64
+		{F77CE20C-51EE-44DF-AFF6-B3A0E4FA908C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F77CE20C-51EE-44DF-AFF6-B3A0E4FA908C}.Debug|x86.Build.0 = Debug|Win32
+		{F77CE20C-51EE-44DF-AFF6-B3A0E4FA908C}.Release|x64.ActiveCfg = Release|x64
+		{F77CE20C-51EE-44DF-AFF6-B3A0E4FA908C}.Release|x64.Build.0 = Release|x64
+		{F77CE20C-51EE-44DF-AFF6-B3A0E4FA908C}.Release|x86.ActiveCfg = Release|Win32
+		{F77CE20C-51EE-44DF-AFF6-B3A0E4FA908C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CC35294-0652-4830-916E-13A518D33FC6}
+	EndGlobalSection
+EndGlobal

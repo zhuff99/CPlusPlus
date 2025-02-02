@@ -1,0 +1,3 @@
+﻿  BankAccount_Project2.cpp
+C:\Users\Zachary\source\repos\BankAccount_Project2\BankAccount_Project2\BankAccount_Project2.cpp(157,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BankAccount_Project2.vcxproj -> C:\Users\Zachary\source\repos\BankAccount_Project2\Debug\BankAccount_Project2.exe
